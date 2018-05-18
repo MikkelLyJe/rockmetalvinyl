@@ -1,0 +1,143 @@
+/* GLOBAL -START- */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+    min-height: 100%;
+}
+
+#pickle {
+    color: red;
+    font-family: metal mania;
+    font-size: 3em;
+}
+
+/* HEADER -START- */
+/* HEADER -END- */
+
+/* FRONT PAGE -START- */
+/* FRONT PAGE -END- */
+
+/* "SHOP" PAGE -START- */
+/* "SHOP" PAGE -END- */
+
+/* "PRODUCT" PAGE -START- */
+/* "PRODUCT" PAGE -END- */
+
+/* "RECOMMENDATIONS" PAGE -START- */
+/* "RECOMMENDATIONS" PAGE -END- */
+
+/* "ABOUT" PAGE -START- */
+/* "ABOUT" PAGE -END- */
+
+/* FOOTER -START- */
+/* FOOTER -END- */
+/* GLOBAL -END- */
+
+/* TABLET -START- */
+@media screen and (min-width: 768px) {
+    
+    /* HEADER -START- */
+    /* HEADER -END- */
+    
+    /* FRONT PAGE -START- */
+    /* FRONT PAGE -END- */
+    
+    /* "SHOP" PAGE -START- */
+    /* "SHOP" PAGE -END- */
+
+    /* "PRODUCT" PAGE -START- */
+    /* "PRODUCT" PAGE -END- */
+
+    /* "RECOMMENDATIONS" PAGE -START- */
+    /* "RECOMMENDATIONS" PAGE -END- */
+
+    /* "ABOUT" PAGE -START- */
+    /* "ABOUT" PAGE -END- */
+    
+    /* FOOTER -START- */
+    /* FOOTER -END- */
+}
+/* TABLET -END- */
+
+/* 13" DESKTOP -START- */
+@media screen and (min-width: 1024px) {
+    
+    /* HEADER -START- */
+    /* HEADER -END- */
+    
+    /* FRONT PAGE -START- */
+    /* FRONT PAGE -END- */
+    
+    /* "SHOP" PAGE -START- */
+    /* "SHOP" PAGE -END- */
+
+    /* "PRODUCT" PAGE -START- */
+    /* "PRODUCT" PAGE -END- */
+
+    /* "RECOMMENDATIONS" PAGE -START- */
+    /* "RECOMMENDATIONS" PAGE -END- */
+
+    /* "ABOUT" PAGE -START- */
+    /* "ABOUT" PAGE -END- */
+    
+    /* FOOTER -START- */
+    /* FOOTER -END- */
+}
+/* 13" DESKTOP -END- */
+
+/* 15" DESKTOP -START- */
+@media screen and (min-width: 1440px) {
+
+    /* HEADER -START- */
+    /* HEADER -END- */
+    
+    /* FRONT PAGE -START- */
+    /* FRONT PAGE -END- */
+    
+    /* "SHOP" PAGE -START- */
+    /* "SHOP" PAGE -END- */
+
+    /* "PRODUCT" PAGE -START- */
+    /* "PRODUCT" PAGE -END- */
+
+    /* "RECOMMENDATIONS" PAGE -START- */
+    /* "RECOMMENDATIONS" PAGE -END- */
+
+    /* "ABOUT" PAGE -START- */
+    /* "ABOUT" PAGE -END- */
+
+    /* FOOTER -START- */
+    /* FOOTER -END- */
+}
+/* 15" DESKTOP -END- */
+    
+/* 17" DESKTOP -START- */
+@media screen and (min-width: 1920px) {
+
+    /* HEADER -START- */
+    /* HEADER -END- */
+    
+    /* FRONT PAGE -START- */
+    /* FRONT PAGE -END- */
+    
+    /* "SHOP" PAGE -START- */
+    /* "SHOP" PAGE -END- */
+
+    /* "PRODUCT" PAGE -START- */
+    /* "PRODUCT" PAGE -END- */
+
+    /* "RECOMMENDATIONS" PAGE -START- */
+    /* "RECOMMENDATIONS" PAGE -END- */
+
+    /* "ABOUT" PAGE -START- */
+    /* "ABOUT" PAGE -END- */
+    
+    /* FOOTER -START- */
+    /* FOOTER -END- */
+}
+/* 17" DESKTOP -END- */
